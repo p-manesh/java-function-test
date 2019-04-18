@@ -6,7 +6,7 @@
     <groupId>com.function</groupId>
     <artifactId>java-function-test</artifactId>
     <version>1.0</version>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
 
     <name>Azure Java Functions</name>
 
